@@ -13,7 +13,7 @@
     <a href="https://github.com/levina-lab/video-stream/network/members"> <img src="https://img.shields.io/github/forks/levina-lab/video-stream?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
     <a href="https://github.com/levina-lab/video-stream/network/members"> <img src="https://img.shields.io/github/stars/levina-lab/video-stream?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
 </p>
-
+(https://telegra.ph/file/bb211c44ca77ef3949554.jpg)
 ## Deployment
 Read the [Docs](https://levina.gitbook.io/videostreambot/deployment/requirements) for Detailed Information and Setup Guide on deploying Bot.
 
